@@ -1,0 +1,2 @@
+Access key	YOUR_API_ACCESS_KEY
+Secret key	YOUR_API_SECRET_KEY
